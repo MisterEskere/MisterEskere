@@ -1,16 +1,24 @@
-## Hi there 👋
+## Welcome to MisterEskere's GitHub page! 🔥
 
-<!--
-**MisterEskere/MisterEskere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🐧 Open source fan
+- 🗃️ SQL wizard
+- ☁️ Cloud enthusiast
+- 🤖 AI enjoyer
+- 🐍 Python ninja
+- 🟨 JavaScript master
+- 🦀 Rust learner
+- 🐹 Golang in plan
 
-Here are some ideas to get you started:
+[![Linkedin: MisterEskere](https://img.shields.io/badge/-Claudiu%20Adrian%20Simion-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/MisterEskere/)](https://www.linkedin.com/in/claudiu-adrian-simion/)
+[![GitHub MisterEskere](https://img.shields.io/github/followers/MisterEskere?label=follow&style=social)](https://github.com/MisterEskere)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Projects
+
+### 🌎 GameIO [📄 Repo](<!https://github.com/MisterEskere/GameIO2>)
+This crossplatform software makes it easy to dowload and install games from torrents without beeing force to use the Web.
+
+#### Tech stack:
+- FE : JavaScript, HTML, CSS, Svelte.
+- BE : Rust, Tauri.
+- APIs : RAWG.IO api keys.
