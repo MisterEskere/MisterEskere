@@ -14,7 +14,7 @@
 
 ## Projects
 
-### 🌎 GameIO [📄 Repo](<!https://github.com/MisterEskere/GameIO2>)
+### 🌎 GameIO [📄 Repo](<https://github.com/MisterEskere/GameIO2>)
 
 This crossplatform software makes it easy to dowload and install games from torrents without beeing force to use the Web.
 
